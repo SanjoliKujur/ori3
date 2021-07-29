@@ -1,0 +1,18 @@
+.header{
+    background-color: deepskyblue;
+}
+
+.menu{
+    background-color: hotpink;  text-align: center;
+}
+
+.category{
+    background-color: orangered; text-align: left;
+}
+
+.info{
+    background-color: yellow; text-align: left; display: flex;
+    flex-wrap: wrap; justify-content: space-evenly; font-family: 'vivaldi';
+    font-size: larger;
+}
+
